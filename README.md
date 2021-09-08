@@ -1,7 +1,7 @@
 ### Aopa! Murillo Alves na área.
-- 🔭 Atualmente trabalho com Documentação e Requisitos de Software
-- 🌱 Estudando Desenvolvimento Mobile com Kotlin
-- 👯 Procuro colaborar com projetos e aplicações Mobile android
+- 👨‍💻 Atualmente trabalho com Documentação e Requisitos de Software
+- 💻 Estudando Desenvolvimento Mobile com Kotlin
+- ✌🏼 Procuro colaborar com projetos e aplicações Mobile android
 - 📫 Contate-me no email: tumusx1@gmail.com
  <div>
   <a href="https://github.com/tumusx">
