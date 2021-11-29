@@ -1,8 +1,5 @@
-### Aopa! Murillo Alves na área.
-- 👨‍💻 Atualmente trabalho com Documentação e Requisitos de Software
-- 💻 Estudando Desenvolvimento Mobile com Kotlin
-- ✌🏼 Procuro colaborar com projetos e aplicações Mobile android
-- 📫 Contate-me no email: tumusx1@gmail.com
+### Hi! i am jr android developer. Speak i about Android, struct date 
+and computational math. 
  <div>
   <a href="https://github.com/tumusx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tumusx&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
