@@ -1,5 +1,4 @@
-### Hi! i am jr android developer. Speak i about Android, struct date 
-and computational math. 
+### Hi! i am jr android developer. Speak i about Android, struct date and computational math. 
  <div>
   <a href="https://github.com/tumusx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tumusx&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
