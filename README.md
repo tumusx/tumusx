@@ -1,4 +1,4 @@
-### Hi! i am jr android developer. Speak i about Android, struct date and computational math. 
+### Hi! i am jr android developer. I speak about Android, struct date and computational math. 
  <div>
   
 </div>
