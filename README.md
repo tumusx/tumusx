@@ -1,4 +1,4 @@
-### Hi! i am android developer. I speak about Android, struct date and computational math. 
+### Hi! i am mobile developer. I speak about Android, flutter, struct date and computational math. 
  <div>
   
 </div>
