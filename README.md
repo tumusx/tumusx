@@ -1,4 +1,4 @@
-### Hi! i am software developer. I speak about Android, flutter, data struct and computational math. 
+### Hi! i am software developer. I speak about Android, flutter, data struct, AI and computational math. 
  <div>
   
 </div>
