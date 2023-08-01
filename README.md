@@ -1,4 +1,4 @@
-### Hi! i am software developer. I speak about mobil, data struct, AI and computational math. 
+### Hi! i am software developer. I speak about mobile, data struct, AI and computational math. 
  <div>
   
 </div>
