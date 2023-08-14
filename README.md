@@ -1,4 +1,5 @@
-### Hi! i am software developer. I speak about mobile, data struct, AI and computational math. 
+### I am a Software Developer. Currently, i am studding Mobile, specifically Android and React Native. Also, i love to study others stacks, like Back-End with .NET, Java and Golang. I like too Front-End with React/Angular. 
+### I am a enthusiast of Data Science, but i planning deep study on 2024 with my postgraduate at Big Data.
  <div>
   
 </div>
