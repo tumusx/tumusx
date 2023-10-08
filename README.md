@@ -1,5 +1,5 @@
-### I am a Software Developer. Currently, I studding Mobile, specifically Android and React Native. Also, I love study others stacks, like Back-End with .NET, Java and Golang. I like too Front-End with React/Angular. 
-### I am a enthusiast of Data Science, but I'm planning deep study on 2024 with my postgraduate in Big Data.
+### I'm working as Mobile Developer, specifically Android (Kotlin/Java). Also, I love study others stacks, like Back-End with .NET, Java and Golang and Front-End. 
+### I'm a enthusiast of Data Science, but I'm planning deep study on 2024 with my postgraduate in Big Data.
  <div>
   
 </div>
