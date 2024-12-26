@@ -1,5 +1,13 @@
-### I'm working as Mobile Developer, specifically Android (Kotlin/Java). Also, I love study others stacks, like Back-End with .NET, Java and Golang and Front-End. 
-### I'm a enthusiast of Data Science, but I'm planning deep study on 2024 with my postgraduate in Big Data.
+## Software Engineer specializing in Android mobile application development with strong expertise in Kotlin and Java. Experienced in building native apps and working with cross-platform frameworks like Flutter and React Native. I focus on robust architectures emphasizing modularization, testability, and maintainability, leveraging TDD to ensure high-quality and continuously evolving projects.
+
+Skilled in CI/CD pipelines with tools like Azure DevOps, Jenkins, GitLab CI/CD, GitHub Actions, Bitrise, and Fastlane to automate builds, testing, and distribution. Efficient app delivery is achieved with Firebase App Distribution for rapid, high-quality releases.
+
+Proficient in distributed messaging systems using RabbitMQ, AWS SNS/SQS, and AWS services like S3 and EC2, enabling scalable and resilient solutions for high-performance systems with asynchronous communication.
+
+In addition to mobile solutions, I have experience in web development using C# .NET, React, Angular, Typescript, JavaScript, and Windows Forms, allowing me to deliver comprehensive solutions integrating mobile and web platforms.
+
+I excel in code reviews to ensure software quality, adherence to development standards, and continuous system maintenance. Collaborating with development teams, I promote best practices and drive efficient, scalable code evolution.
+
  <div>
   
 </div>
@@ -7,10 +15,10 @@
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Tu-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+     <img align="center" alt="Tu-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
     <img align="center" alt="Tu-Ja" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Tu-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Tu-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Tu-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
    <img align="center" alt="Tu-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
      <img align="center" alt="Tu-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
